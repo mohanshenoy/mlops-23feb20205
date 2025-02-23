@@ -4,8 +4,8 @@ city: New York
 is_student: true
 grade:
   - subject: Math
-    grade: Y
+    grade: Z(updated by git-client-2)
   - subject: English
-    grade: Y
+    grade: Z(updated by git-client-2)
   - subject: Science
-    grade: Y
+    grade: Z(updated by git-client-2)
